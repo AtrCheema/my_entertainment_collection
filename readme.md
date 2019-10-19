@@ -1,3 +1,4 @@
+# Introduction
 Just a collection of my personal entertainment related stuff.
 I may keep on updating it with time. 
 
@@ -6,8 +7,10 @@ videos with English subtitles if possible. For books the link is given for Engli
 of book. For translation into other languages, follow the link given under comment column. 
 For videos, it is attemted to not provide YouTube links as
 those links are not stable.
-#Films or Serials
 
+# Films or Serials
+These are categorized into serials (having more than 1 episodes) which also include so called 
+seasons and films.
 
 ## Serials
 
@@ -73,40 +76,40 @@ The books I wish to read and understand before dying.
 |[Our Economy]() | Baqir al sadr  | here |  about muslim economy |
 |[Our Philosophy]() | Baqir al sadr  | here |  about muslim philosophy |
 |[The Renewal of Islamic Law: Muhammad Baqer As-Sadr, Najaf and the Shi'i International]() | Mallat Chiblit | here | about Baqir al sadr |
-|[Modern Division of Philosophies](https://www.al-islam.org/printpdf/book/export/html/46505) | Allamah Muhammad Taqi Ja'fari |  ||
+|[Modern Division of Philosophies](https://www.al-islam.org/printpdf/book/export/html/46505) | Allamah Muh. Taqi Ja'fari |  ||
 |[Challenges and Dilemmas in Making Values and Ideals](https://www.al-islam.org/printpdf/book/export/html/41078) | Abbas Ali Shameli |  ||
 |[Introduction to Islamic Sciences](https://www.al-islam.org/printpdf/book/export/html/42994) | Rasoul Imani Khoshkhu |  ||
 |[Religious, Philosophical and Psychological Foundations of Happiness](https://www.al-islam.org/printpdf/book/export/html/42129) | Hamid Reza Alavi |  ||
 |[Comparative Study of Shared Views of Muslim and Non-Muslim Scholars on Philosophy and Education](https://www.al-islam.org/printpdf/book/export/html/40990) | Hamid Reza Alavi |  ||
 |[Philosophy of Science from the Qur'anic Perspective](https://www.al-islam.org/printpdf/book/export/html/39388) | Dr. Mehdi Golshani |  ||
-|[Freedom and Causality in Contemporary Islamic and Western Philosophy](https://www.al-islam.org/printpdf/book/export/html/34394) | Ayatullah Mohsen Araki |  ||
-|[The Source Of Rights](https://www.al-islam.org/printpdf/book/export/html/22991) | Ayatullah Muhammad Taqi Misbah Yazdi |  ||
-|[The Status of Women in Islam](https://www.al-islam.org/printpdf/book/export/html/34855) | Ayatullah Muhammad Taqi Misbah Yazdi, Muhammad Jawad Bahonar, Lois Lamya al-Faruqi |  ||
-|[Islamic Political Theory (Legislation)](https://www.al-islam.org/printpdf/book/export/html/16269) | Ayatullah Muhammad Taqi Misbah Yazdi |  ||
-|[A Cursory Glance at the Theory of Wilayat al-Faqih](https://www.al-islam.org/printpdf/book/export/html/28983) | Ayatullah Muhammad Taqi Misbah Yazdi |  ||
-|[Reason, Faith and Authority: A Shiite Perspective](https://www.al-islam.org/printpdf/book/export/html/21724) | Mohammad Ali Shomali |  ||
-|[Causality and Freedom](https://www.al-islam.org/printpdf/book/export/html/21886) | Ayatullah Mohsen Araki | ||
+|[Freedom and Causality in Contemporary Islamic and Western Philosophy](https://www.al-islam.org/printpdf/book/export/html/34394) | Ay. Mohsen Araki |  ||
+|[The Source Of Rights](https://www.al-islam.org/printpdf/book/export/html/22991) | Ay. Muh. Taqi Misbah Yazdi |  ||
+|[The Status of Women in Islam](https://www.al-islam.org/printpdf/book/export/html/34855) | Ay. Muh. Taqi Misbah Yazdi, Muh. Jawad Bahonar, Lois Lamya al-Faruqi |  ||
+|[Islamic Political Theory (Legislation)](https://www.al-islam.org/printpdf/book/export/html/16269) | Ay. Muh. Taqi Misbah Yazdi |  ||
+|[A Cursory Glance at the Theory of Wilayat al-Faqih](https://www.al-islam.org/printpdf/book/export/html/28983) | Ay. Muh. Taqi Misbah Yazdi |  ||
+|[Reason, Faith and Authority: A Shiite Perspective](https://www.al-islam.org/printpdf/book/export/html/21724) | Muh. Ali Shomali |  ||
+|[Causality and Freedom](https://www.al-islam.org/printpdf/book/export/html/21886) | Ay. Mohsen Araki | ||
 |[Three Topics in Theological Philosophy](https://www.al-islam.org/printpdf/book/export/html/21974) | Dr. Ahmad Ahmadi |  ||
 |[Eternity of Man](https://www.al-islam.org/printpdf/book/export/html/10581) | |  ||
 |[Divine Justice or The Problem of Evil](https://www.al-islam.org/printpdf/book/export/html/12453) | Javad Shayvard |  ||
-|[The Problem of Contradiction in Islamic Philosophy](https://www.al-islam.org/printpdf/book/export/html/27487) | Ayatullah Murtadha Mutahhari |  ||
+|[The Problem of Contradiction in Islamic Philosophy](https://www.al-islam.org/printpdf/book/export/html/27487) | Ay. Murtadha Mutahhari |  ||
 |[An Approach to the Understanding of Islam](https://www.al-islam.org/printpdf/book/export/html/9680) | Ali Shariati |  ||
-|[The Relationship between Philosophy and Theology in the Postmodern Age](https://www.al-islam.org/printpdf/book/export/html/23021) | Dr. Muhammad Legenhausen |  ||
+|[The Relationship between Philosophy and Theology in the Postmodern Age](https://www.al-islam.org/printpdf/book/export/html/23021) | Dr. Muh. Legenhausen |  ||
 |[Ultimate Questions in Philosophy of Religion](https://www.al-islam.org/printpdf/book/export/html/28930) | Shaykh Mansour Leghaei |  ||
-|[Fundamentals of Islamic Thought: God, Man and the Universe](https://www.al-islam.org/printpdf/book/export/html/34917) | Ayatullah Murtadha Mutahhari |   ||
-|[Contemporary Topics of Islamic Thought](https://www.al-islam.org/printpdf/book/export/html/34924) | Dr. Muhammad Legenhausen |  ||
-|[The Justice of God](https://www.al-islam.org/printpdf/book/export/html/11506) | Sayyid Sa'eed Akhtar Rizvi |  ||
+|[Fundamentals of Islamic Thought: God, Man and the Universe](https://www.al-islam.org/printpdf/book/export/html/34917) | Ay. Murtadha Mutahhari |   ||
+|[Contemporary Topics of Islamic Thought](https://www.al-islam.org/printpdf/book/export/html/34924) | Dr. Muh. Legenhausen |  ||
+|[The Justice of God](https://www.al-islam.org/printpdf/book/export/html/11506) | S. Sa'eed Akhtar Rizvi |  ||
 |[The Study of Islamic Philosophy](https://www.al-islam.org/printpdf/book/export/html/22993) | Ibrahim Bayyumi Madkour |  ||
-|[Man and His Destiny](https://www.al-islam.org/printpdf/book/export/html/13088) | Ayatullah Murtadha Mutahhari |  ||
+|[Man and His Destiny](https://www.al-islam.org/printpdf/book/export/html/13088) | Ay. Murtadha Mutahhari |  ||
 |[The Islamic Concept of Knowledge](https://www.al-islam.org/printpdf/book/export/html/22999) | Dr. Sayyid Wahid Akhtar |  ||
-|[Perfect Man](https://www.al-islam.org/printpdf/book/export/html/18721) | Ayatullah Murtadha Mutahhari |  | |
-|[Selection from Glimpses of the Nahj al-Balaghah](https://www.al-islam.org/printpdf/book/export/html/21941) | Ayatullah Murtadha Mutahhari |  ||
+|[Perfect Man](https://www.al-islam.org/printpdf/book/export/html/18721) | Ay. Murtadha Mutahhari |  | |
+|[Selection from Glimpses of the Nahj al-Balaghah](https://www.al-islam.org/printpdf/book/export/html/21941) | Ay. Murtadha Mutahhari |  ||
 |[A History of Muslim Philosophy](https://www.al-islam.org/printpdf/book/export/html/30813) | Pakistan Philosophical Congress |  ||
-|[Philosophy Of Islam](https://www.al-islam.org/printpdf/book/export/html/18879) | Sayyid Muhammad Husayni Beheshti, Muhammad Jawad Bahonar |  | |
-|[Does God Have a Mind?](https://www.al-islam.org/printpdf/book/export/html/45506) | Dr. Muhammad Legenhausen |  | |
-|[Islam and Religious Pluralism](https://www.al-islam.org/printpdf/book/export/html/17516) | Ayatullah Murtadha Mutahhari |  | |
-|[Light Within Me](https://www.al-islam.org/printpdf/book/export/html/27477) | Ayatullah Murtadha Mutahhari, Allamah Sayyid Muhammad Husayn at-Tabataba'i, Ayatullah Sayyid Ruhallah Musawi Khomeini |  | |
-|[Hegel’s Ethics](https://www.al-islam.org/printpdf/book/export/html/45784) | Dr. Muhammad Legenhausen |  | |
+|[Philosophy Of Islam](https://www.al-islam.org/printpdf/book/export/html/18879) | S. Muh. Husayni Beheshti, Muh. Jawad Bahonar |  | |
+|[Does God Have a Mind?](https://www.al-islam.org/printpdf/book/export/html/45506) | Dr. Muh. Legenhausen |  | |
+|[Islam and Religious Pluralism](https://www.al-islam.org/printpdf/book/export/html/17516) | Ay. Murtadha Mutahhari |  | |
+|[Light Within Me](https://www.al-islam.org/printpdf/book/export/html/27477) | Ay. Murtadha Mutahhari, Allamah S. Muh. Husayn at-Tabataba'i, Ay. S. Ruhallah Musawi Khomeini |  | |
+|[Hegel’s Ethics](https://www.al-islam.org/printpdf/book/export/html/45784) | Dr. Muh. Legenhausen |  | |
 
 # Papers
 Some papers which I think are useful.
@@ -119,3 +122,12 @@ Some papers which I think are useful.
 |[Aziz, T. M. (1993). An Islamic perspective of political economy: The views of (late) Muhammad Baqir al-Sadr. Al-Tawhid Islamic Journal, 10(1).](https://www.al-islam.org/printpdf/book/export/html/22958)|
 
 # Music
+
+## Abbreviations
+
+| Abreviation  |Meaning |
+| ------------- | ------------- | 
+|Ay. |Ayatollah|
+|Dr. |Doctor|
+|S.  | Sayyid |
+|Muh. | Muhammad|
