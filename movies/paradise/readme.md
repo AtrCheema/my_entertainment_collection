@@ -1,7 +1,7 @@
 ## Links
 | Name  |
 | ------------- |
-|[Original](https://www.youtube.com/watch?v=1dgYqiRX7X0) |
+|[Original](https://www.youtube.com/watch?v=XEZY_faDv34) |
 |[English subtitles] |
 |[Urdu Subtitles] |
 |[Arabic subtitles] |

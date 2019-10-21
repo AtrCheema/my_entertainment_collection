@@ -2,7 +2,7 @@
 | Name  |
 | ------------- |
 |[Original] |
-|[English subtitles] |
+|[English subtitles](https://www.aparat.com/v/zKNOd) |
 |[Urdu Subtitles] |
 |[Arabic subtitles] |
 |[English dubbed]| |
