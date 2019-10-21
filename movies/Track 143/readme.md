@@ -1,6 +1,6 @@
 ## Links
-| Name  | Year  |
-| ------------- | ------------- |
+| Name  |
+| ------------- |
 |[Original] |
 |[English subtitles] |
 |[Urdu Subtitles] |
