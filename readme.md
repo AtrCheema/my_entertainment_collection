@@ -78,8 +78,8 @@ The books I wish to read and understand before dying.
 
 | Name  |Author |Year| Comment |
 | ------------- | ------------- | ----| ---|
-|[Our Economy]() | Baqir al sadr  | here |  about muslim economy |
-|[Our Philosophy]() | Baqir al sadr  | here |  about muslim philosophy |
+|[Our Economy](http://ijtihadnet.com/?s=Iqtisaduna) | Baqir al sadr  | 1961 |  about muslim economy |
+|[Our Philosophy](https://www.al-islam.org/printpdf/book/export/html/43906) | Baqir al sadr  | 1959 |  about muslim philosophy |
 |[The Renewal of Islamic Law: Muhammad Baqer As-Sadr, Najaf and the Shi'i International]() | Mallat Chiblit | here | about Baqir al sadr |
 |[Modern Division of Philosophies](https://www.al-islam.org/printpdf/book/export/html/46505) | Allamah Muh. Taqi Ja'fari |  ||
 |[Challenges and Dilemmas in Making Values and Ideals](https://www.al-islam.org/printpdf/book/export/html/41078) | Abbas Ali Shameli |  ||
