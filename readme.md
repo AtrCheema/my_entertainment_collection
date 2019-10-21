@@ -42,7 +42,7 @@ seasons and films.
 |[Hasht o neem dagheeghay](https://www.aparat.com/v/iK6j0) | 2016 | |
 |[Paridukht](https://www.aparat.com/v/zH27N) | 2007 | |
 |[Armaghan tariki](https://www.aparat.com/v/A045f) | 2011 | |
-|[Tabir waruney yek ruya](https://www.aparat.com/v/oSYDF)  2015 | |
+|[Tabir waruney yek ruya](https://www.aparat.com/v/oSYDF) | 2015 | |
 |[Yalda](https://www.aparat.com/v/yDQj2) |  2012 | |
 
 ## Films
