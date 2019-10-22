@@ -5,9 +5,9 @@
 |[English subtitles] |
 |[Urdu Subtitles] |
 |[Arabic subtitles] |
-|[English dubbed]| |
-|[urdu dubbed]| |
-|[arabic dubbed]| |
+|[English dubbed](https://www.youtube.com/watch?v=ntxQb-o80-s&list=PLFcunZcFZZRJtyymQ2qJtBvpwGEjJQwRc)|
+|[urdu dubbed] |
+|[arabic dubbed] |
 
 ## My analysis
 

@@ -44,6 +44,15 @@ seasons and films.
 |[Armaghan tariki](https://www.aparat.com/v/A045f) | 2011 | |
 |[Tabir waruney yek ruya](https://www.aparat.com/v/oSYDF) | 2015 | |
 |[Yalda](https://www.aparat.com/v/yDQj2) |  2012 | |
+|[Imam Hasan a.s]() | | |
+|[Safeer e Husain a.s]() | | |
+|[Gharib e Toos]() | | |
+|[Hujar ibn Uday a.s]() | | |
+|[Tiflan e Muslim a.s]() | | |
+|[saint mary]() |2000 | |
+|[Dar intelligence 2]() | | |
+|[jabar bin hayan]() | | |
+
 
 ## Films
 
@@ -128,6 +137,10 @@ Some papers which I think are useful.
 |[Aziz, T. M. (1993). An Islamic perspective of political economy: The views of (late) Muhammad Baqir al-Sadr. Al-Tawhid Islamic Journal, 10(1).](https://www.al-islam.org/printpdf/book/export/html/22958)|
 
 # Music
+
+| Title  |Singer |Year| Comment |
+| ------------- | ------------- | ----| ---|
+
 
 ## Abbreviations
 
