@@ -53,6 +53,7 @@ seasons and films.
 |[Dark intelligence 2]() | | [about cyber security operations by Iranian itelligence agencies](https://github.com/AtrCheema/my_entertainment_collection/tree/master/serials/Hooshay%20siyah%202)|
 |[jabar bin hayan]() | | [about life of jabar bin hayan](https://github.com/AtrCheema/my_entertainment_collection/tree/master/serials/jabar%20bin%20hayan) |
 |[Five kilometers from heaven]() | | [](https://github.com/AtrCheema/my_entertainment_collection/tree/master/serials/five%20kilometers%20from%20heaven) |
+|[ibn e sina]() | | [about life of Abu Ali Seena or Avecena]()|
 
 ## Films
 
