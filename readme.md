@@ -126,6 +126,8 @@ The books I wish to read and understand before dying.
 |[Islam and Religious Pluralism](https://www.al-islam.org/printpdf/book/export/html/17516) | Ay. Murtadha Mutahhari |  | |
 |[Light Within Me](https://www.al-islam.org/printpdf/book/export/html/27477) | Ay. Murtadha Mutahhari, Allamah S. Muh. Husayn at-Tabataba'i, Ay. S. Ruhallah Musawi Khomeini |  | |
 |[Hegel’s Ethics](https://www.al-islam.org/printpdf/book/export/html/45784) | Dr. Muh. Legenhausen |  | |
+|[Shaykh Mufid](https://www.amazon.com/Shaykh-Mufid-Makers-Muslim-World/dp/1851683836) | Tamima Bayhom-Daou | 2005| About life of Imami Scholar Sheikh Mufid |
+
 
 # Papers
 Some papers which I think are useful.
