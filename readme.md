@@ -53,10 +53,11 @@ seasons and films.
 |[Dark intelligence 2]() | | [about cyber security operations by Iranian itelligence agencies](https://github.com/AtrCheema/my_entertainment_collection/tree/master/serials/Hooshay%20siyah%202)|
 |[jabar bin hayan]() | | [about life of jabar bin hayan](https://github.com/AtrCheema/my_entertainment_collection/tree/master/serials/jabar%20bin%20hayan) |
 |[Five kilometers from heaven]() | | [](https://github.com/AtrCheema/my_entertainment_collection/tree/master/serials/five%20kilometers%20from%20heaven) |
-|[ibn e sina]() | | [about life of Abu Ali Seena or Avecena]()|
-|[Ahl_e_wafa]() | | |
-|[Mehmetcik Kutulamare](https://www.youtube.com/watch?v=3towYPrOQvM&list=PLQJjr7v0MiGHE9QUGP06ys4olmjwJykMQ&index=7) | | |
-|[owais_e_qarni_a_s](http://payam.net.pk/movies/owes-e-qarni/)| |About life of Hazrat Owais qarni a.s who was companion of Prophet Muhammad pbuh|
+|[ibn e sina]() | | [about life of Abu Ali Seena or Avecena](https://github.com/AtrCheema/my_entertainment_collection/tree/master/serials/ibn%20e%20sina)|
+|[Ahl_e_wafa]() | |[lebanese freedom fighters](https://github.com/AtrCheema/my_entertainment_collection/tree/master/serials/alh_e_wafa)|
+|[Mehmetcik Kutulamare](https://www.youtube.com/watch?v=3towYPrOQvM&list=PLQJjr7v0MiGHE9QUGP06ys4olmjwJykMQ&index=7) | |[About Ottoman empire ](https://github.com/AtrCheema/my_entertainment_collection/tree/master/serials/mehmetcik_kutulamare)|
+|[owais_e_qarni_a_s](http://payam.net.pk/movies/owes-e-qarni/)| |[About life of Hazrat Owais qarni a.s who was companion of Prophet Muhammad pbuh](https://github.com/AtrCheema/my_entertainment_collection/tree/master/serials/owais_e_qarni)|
+|[Behlol Dana]() | | [About life of Hazrat Behlol a.s ](https://github.com/AtrCheema/my_entertainment_collection/tree/master/serials/behlol_dana)|
 
 ## Films
 
@@ -85,7 +86,7 @@ seasons and films.
 |[Track 143]() |2014 | [Based on Abyar's novel "the third eye" and narrates the story of a mother whose son goes to war and after 15 years of waiting, the remains of his body returns home.](https://github.com/AtrCheema/my_entertainment_collection/tree/master/movies/Track%20143)  |
 |[23 people]() | 2019 |[Based on the memoirs of 23 Iranian prisoners of war, aged 13 to 17, that were captured by Baathist forces in 1983.](https://github.com/AtrCheema/my_entertainment_collection/tree/master/movies/23%20people) |
 |[paradise](https://www.youtube.com/watch?v=XEZY_faDv34) |2019 | [about](https://github.com/AtrCheema/my_entertainment_collection/tree/master/movies/paradise) |
-|Gohar Shad](https://www.aparat.com/v/47jtO) | | |
+|[Gohar Shad](https://www.aparat.com/v/47jtO) | | |
 
 
 # Books
