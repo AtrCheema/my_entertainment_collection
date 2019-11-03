@@ -1,7 +1,7 @@
 # Introduction
 Just a collection of my personal entertainment related stuff. Contents are divided into following categories  
 [Films](https://github.com/AtrCheema/my_entertainment_collection#Films)  
-[Movies](https://github.com/AtrCheema/my_entertainment_collection#Movies)  
+[Serials](https://github.com/AtrCheema/my_entertainment_collection#Serials)  
 [Books](https://github.com/AtrCheema/my_entertainment_collection#Books)  
 [Papers](https://github.com/AtrCheema/my_entertainment_collection#Papers)  
 [Music](https://github.com/AtrCheema/my_entertainment_collection#Music)  
