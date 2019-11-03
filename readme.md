@@ -134,7 +134,7 @@ The books I wish to read and understand before dying.
 |[Shaykh Mufid](https://www.amazon.com/Shaykh-Mufid-Makers-Muslim-World/dp/1851683836) | Tamima Bayhom-Daou | 2005| About life of Imami Scholar Sheikh Mufid |
 |[Trends of history in Quran](http://ijtihadnet.com/trends-of-history-in-quran-by-ayatollah-muhammad-baqir-al-sadr/) | Ay. Sy. Muh. Baqir al Sadr | 2014 | lectures of Baqir al sadr on the subject|
 |[An Introduction to the Political Theory of Imam Khomeini](http://ijtihadnet.com/an-introduction-to-the-political-theory-of-imam-khomeini/) | Dr. Moh. Reza Dehshiri | 2015 | |
-|[Rights of women in islam](http://ijtihadnet.com/rights-of-women-in-islam-pdf/) | 2012| Murtaza Mutahri |[outlines general rights of women with special emphasis to marriage. Some of the areas covered are marriage proposal, engagement, temporary marriage, modernity, dowry, inheritance, divorce, and polygymy]()|
+|[Rights of women in islam](http://ijtihadnet.com/rights-of-women-in-islam-pdf/) | Murtaza Mutahri| 2012 |[outlines general rights of women with special emphasis to marriage. Some of the areas covered are marriage proposal, engagement, temporary marriage, modernity, dowry, inheritance, divorce, and polygymy]()|
 
 
 # Papers
