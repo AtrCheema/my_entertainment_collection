@@ -1,11 +1,11 @@
 ## Links
 | Name  |
 | ------------- |
-|[Original](https://www.youtube.com/watch?v=1dgYqiRX7X0) |
-|[English subtitles] |
+|[Original](https://www.aparat.com/v/rCPud) |
+|[English subtitles](https://www.aparat.com/v/uQcql) |
 |[Urdu Subtitles] |
 |[Arabic subtitles] |
-|[English dubbed]| |
+|[English dubbed] |
 |[urdu dubbed]| |
 |[arabic dubbed]| |
 

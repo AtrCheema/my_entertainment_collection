@@ -2,11 +2,11 @@
 | Name  |
 | ------------- |
 |[Original] |
-|[English subtitles] |
+|[English subtitles](https://www.youtube.com/watch?v=iX7Ubxuz_gI) |
 |[Urdu Subtitles] |
 |[Arabic subtitles] |
 |[English dubbed]| |
-|[urdu dubbed]|(http://payam.net.pk/movies/safeer-e-hussain/) |
+|[urdu dubbed]| |
 |[arabic dubbed]| |
 
 ## My analysis
