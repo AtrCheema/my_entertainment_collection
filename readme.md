@@ -77,7 +77,6 @@ seasons and films.
 |[nafuzi](https://www.youtube.com/watch?v=1gWyJsoJjIY) | | |
 |[tangeh abu gharib](https://www.youtube.com/watch?v=icNMHza5Biw) | | |
 |[Damascus Time](https://www.youtube.com/watch?v=1dgYqiRX7X0) |2018 | |
-|[The walnut harvest](https://www.youtube.com/watch?v=N8EabHRZEmc) | | |
 |[Emkan meena](https://www.youtube.com/watch?v=NIlp01F8sA8&t=2524s) | | |
 |[Cyanide](https://www.youtube.com/watch?v=DTZTSTlv8D0) |2015 |[About terrorist activities of communists in Iran](https://github.com/AtrCheema/my_entertainment_collection/tree/master/movies/Cyanide) |
 |[Majra e neemrooz](https://www.aparat.com/v/LEzw0) | 2017 | |
