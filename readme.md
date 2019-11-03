@@ -63,7 +63,7 @@ seasons and films.
 
 | Name  |Year| Comment |
 | ---------- | ------------- | ----|
-|[Muhammad the messenger of God( pbuh)]() |2015 | |
+|[Muhammad the messenger of God( pbuh)]() |2015 | [About life of prophet Muhammad pbuh](https://github.com/AtrCheema/my_entertainment_collection/tree/master/movies/muhammad_the_messenger_of_God)|
 |[Yateem Khana Iran](https://www.youtube.com/watch?v=HdQCJ-SuGEU) |2016 |[About famine in Iran during WW1 which halved the population and the role of British in famine](https://github.com/AtrCheema/my_entertainment_collection/tree/master/movies/Yateem%20Khana%20Iran) |
 |[zamani barayi mandan]() | | |
 |[guzar](https://www.aparat.com/v/bE6v9) | | |
@@ -73,10 +73,10 @@ seasons and films.
 |[bodyguard](https://www.aparat.com/v/JS16C) |2016 | |
 |[Che](https://www.aparat.com/v/iymIz) |2014 |[About Mustafa Chamran](https://github.com/AtrCheema/my_entertainment_collection/tree/master/movies/Che) |
 |[Qulladay haye tala]() | | |
-|[ekhrajay ha](https://www.aparat.com/v/mPfLx) | | |
+|[ekhrajay ha](https://www.aparat.com/v/mPfLx) | | [](https://github.com/AtrCheema/my_entertainment_collection/tree/master/movies/ekhrajay%20ha)|
 |[nafuzi](https://www.youtube.com/watch?v=1gWyJsoJjIY) | | |
-|[tangeh abu gharib](https://www.youtube.com/watch?v=icNMHza5Biw) | | |
-|[Damascus Time](https://www.youtube.com/watch?v=1dgYqiRX7X0) |2018 | |
+|[tangeh abu gharib](https://www.youtube.com/watch?v=icNMHza5Biw) | | [](https://github.com/AtrCheema/my_entertainment_collection/tree/master/movies/tangeh%20abu%20gharib)|
+|[Damascus Time](https://www.youtube.com/watch?v=1dgYqiRX7X0) |2018 | [About a rescue operation during syrian civil war during the siege of Palmyra by ISIS](https://github.com/AtrCheema/my_entertainment_collection/tree/master/movies/Damascus%20Time)|
 |[Emkan meena](https://www.youtube.com/watch?v=NIlp01F8sA8&t=2524s) | | |
 |[Cyanide](https://www.youtube.com/watch?v=DTZTSTlv8D0) |2015 |[About terrorist activities of communists in Iran](https://github.com/AtrCheema/my_entertainment_collection/tree/master/movies/Cyanide) |
 |[Majra e neemrooz](https://www.aparat.com/v/LEzw0) | 2017 | |
@@ -85,8 +85,9 @@ seasons and films.
 |[Track 143]() |2014 | [Based on Abyar's novel "the third eye" and narrates the story of a mother whose son goes to war and after 15 years of waiting, the remains of his body returns home.](https://github.com/AtrCheema/my_entertainment_collection/tree/master/movies/Track%20143)  |
 |[23 people]() | 2019 |[Based on the memoirs of 23 Iranian prisoners of war, aged 13 to 17, that were captured by Baathist forces in 1983.](https://github.com/AtrCheema/my_entertainment_collection/tree/master/movies/23%20people) |
 |[paradise](https://www.youtube.com/watch?v=XEZY_faDv34) |2019 | [about](https://github.com/AtrCheema/my_entertainment_collection/tree/master/movies/paradise) |
-|[Gohar Shad](https://www.aparat.com/v/47jtO) | | |
-
+|[Gohar Shad](https://www.aparat.com/v/47jtO) | 2019| |
+|[The messenge](https://www.youtube.com/watch?v=ZHcNzpmB3MM) | 1977| [About prophet muhammad pbuh](https://github.com/AtrCheema/my_entertainment_collection/tree/master/movies/the_messenge)|
+|[Kingdom of Solomon](https://www.youtube.com/watch?v=SHLQmYhC4ao)| 2010| [About life of prophet Solomon a.s](https://github.com/AtrCheema/my_entertainment_collection/tree/master/movies/kingdom_of_solomon)|
 
 # Books
 The books I wish to read and understand before dying.
