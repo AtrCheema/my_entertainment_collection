@@ -6,7 +6,7 @@
 |[Urdu Subtitles] |
 |[Arabic subtitles] |
 |[English dubbed] |
-|[urdu dubbed] |
+|[urdu dubbed](https://www.youtube.com/watch?v=zppbamySN0w&list=PLnpLjyy9X5LdDuRPhXv1c_hLThKkYY-42) |
 |[arabic dubbed](https://www.youtube.com/watch?v=0AzXICyhSZg&list=PLCL67ysYpVGzxFLpOg04vJfDDDC0a7JbH) |
 
 ## My analysis

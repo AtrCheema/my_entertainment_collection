@@ -1,12 +1,12 @@
 ## Links
 | Name  |
 | ------------- |
-|[Original] |
+|[Original](https://www.aparat.com/v/47jtO)|
 |[English subtitles] |
 |[Urdu Subtitles] |
 |[Arabic subtitles] |
 |[English dubbed]| |
-|[urdu dubbed](http://payam.net.pk/movies/mostafa-chamran/)|
+|[urdu dubbed]| |
 |[arabic dubbed]| |
 
 ## My analysis

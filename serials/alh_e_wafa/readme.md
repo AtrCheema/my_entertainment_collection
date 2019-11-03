@@ -6,7 +6,7 @@
 |[Urdu Subtitles] |
 |[Arabic subtitles] |
 |[English dubbed]| |
-|[urdu dubbed](http://payam.net.pk/movies/mostafa-chamran/)|
+|[urdu dubbed](https://www.youtube.com/watch?v=6DkJw5tvHzE)|
 |[arabic dubbed]| |
 
 ## My analysis
