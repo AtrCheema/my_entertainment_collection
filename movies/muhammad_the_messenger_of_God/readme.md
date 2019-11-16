@@ -2,7 +2,7 @@
 | Name  |
 | ------------- |
 |[Original] |
-|[English subtitles] |
+|[English subtitles](https://www.youtube.com/watch?v=iX7Ubxuz_gI) |
 |[Urdu Subtitles] |
 |[Arabic subtitles] |
 |[English dubbed]| |

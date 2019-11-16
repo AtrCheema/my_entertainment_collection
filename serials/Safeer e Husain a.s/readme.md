@@ -6,7 +6,7 @@
 |[Urdu Subtitles] |
 |[Arabic subtitles] |
 |[English dubbed]| |
-|[urdu dubbed]| |
+|[urdu dubbed]|(http://payam.net.pk/movies/safeer-e-hussain/) |
 |[arabic dubbed]| |
 
 ## My analysis
