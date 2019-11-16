@@ -1,5 +1,5 @@
 # Introduction
-Just a collection of my personal entertainment related stuff. Contents are divided into following categories  
+Just a collection of my personal non-eurocentric, entertainment related stuff. Contents are divided into following categories  
 [Films](https://github.com/AtrCheema/my_entertainment_collection#Films)  
 [Serials](https://github.com/AtrCheema/my_entertainment_collection#Serials)  
 [Books](https://github.com/AtrCheema/my_entertainment_collection#Books)  
@@ -87,6 +87,8 @@ seasons and films.
 |[23 people]() | 2019 |[Based on the memoirs of 23 Iranian prisoners of war, aged 13 to 17, that were captured by Baathist forces in 1983.](https://github.com/AtrCheema/my_entertainment_collection/tree/master/movies/23%20people) |
 |[paradise](https://www.youtube.com/watch?v=XEZY_faDv34) |2019 | [about](https://github.com/AtrCheema/my_entertainment_collection/tree/master/movies/paradise) |
 |[Gohar Shad](https://www.aparat.com/v/47jtO) | | |
+|[The survivor](https://www.imvbox.com/watch-persian-movie-iranian-movies/the-survivor-bazmnadeh/play-film) | 1995 | Based on Ghassan Kanafani's novel Returning to Haifa|
+|[The time that remains](https://www.youtube.com/watch?v=ZmUPHXAC3Lk) |2009 | gives an account of the annihilation of Palestine and birth of Israel by a palestinian|
 
 
 # Books
@@ -151,6 +153,8 @@ Some papers which I think are useful.
 
 | Title  |Singer |Year| Comment |
 | ------------- | ------------- | ----| ---|
+
+
 
 
 ## Abbreviations
