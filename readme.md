@@ -91,6 +91,8 @@ seasons and films.
 |[Gohar Shad](https://www.aparat.com/v/47jtO) | 2019| |
 |[The messenge](https://www.youtube.com/watch?v=ZHcNzpmB3MM) | 1977| [About prophet muhammad pbuh](https://github.com/AtrCheema/my_entertainment_collection/tree/master/movies/the_messenge)|
 |[Kingdom of Solomon](https://www.youtube.com/watch?v=SHLQmYhC4ao)| 2010| [About life of prophet Solomon a.s](https://github.com/AtrCheema/my_entertainment_collection/tree/master/movies/kingdom_of_solomon)|
+|[Long Lost Sisters](https://www.youtube.com/watch?v=KqmbHXGHGZc) | 1995 | |
+|[Angels Descend Together](https://www.aparat.com/v/DsYoq) | 2014 | |
 
 # Books
 The books I wish to read and understand before dying.
@@ -149,12 +151,34 @@ Some papers which I think are useful.
 |[Wilson, R. (1998). The Contribution of Muhammad Baqir Al Sadr to contemporary Islamic economic thought. Journal of Islamic Studies, 9(1), 46-59.]() |
 |[Aziz, T. M. (1991). The Islamic Political Theory of Muhammad Baqir al-Sadr of Iraq (Doctoral dissertation, University of Utah).](https://www.researchgate.net/profile/Talib_Aziz/publication/315099311_The_Islamic_Political_Theory_of_Muhammad_Baqir_Al-Sadr_of_Iraq/links/5745e5fe08aea45ee8560fa7/The-Islamic-Political-Theory-of-Muhammad-Baqir-Al-Sadr-of-Iraq.pdf)|
 |[Aziz, T. M. (1993). An Islamic perspective of political economy: The views of (late) Muhammad Baqir al-Sadr. Al-Tawhid Islamic Journal, 10(1).](https://www.al-islam.org/printpdf/book/export/html/22958)|
+|[Sexton, J (2009) The Ruse of Engagement: Black Masculinity and the Cinema of Policing](https://www.researchgate.net/publication/236757753_The_Ruse_of_Engagement_Black_Masculinity_and_the_Cinema_of_Policing)|
+|[Levich, J. (2015) The Gates Foundation, Ebola, and Global Health Imperialism](https://onlinelibrary.wiley.com/doi/full/10.1111/ajes.12110)|
 
 # Music
 
 | Title  |Singer |Year| Comment |
 | ------------- | ------------- | ----| ---|
 
+# Podcasts
+Some of my favourite podcasts
+
+| Title  |  Description   |
+| ------------- |--------- |
+| [Hujjat Podcast](https://www.stitcher.com/podcast/anchor-podcasts/hujjat-podcast) |  |
+| [The new Asian century podcast](https://soundcloud.com/newasiancentury) |  |
+| [East is the podcast](https://www.eastpodcast.com/) |  |
+| [Lex Friedman](https://podcasts.apple.com/us/podcast/artificial-intelligence/id1434243584) |  |
+| [Philosophise this](http://philosophizethis.org/) | |
+
+
+# Websites
+Some websites with interesting articles 
+
+| Title  |  Description   |
+| ------------- |--------- |
+| [Al Isalm](https://www.al-islam.org/) | |
+| [ijtehat net](http://ijtihadnet.com/) | |
+| [iqra online](https://www.iqraonline.net/) | |
 
 
 
