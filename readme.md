@@ -140,6 +140,7 @@ The books I wish to read and understand before dying.
 |[Trends of history in Quran](http://ijtihadnet.com/trends-of-history-in-quran-by-ayatollah-muhammad-baqir-al-sadr/) | Ay. Sy. Muh. Baqir al Sadr | 2014 | lectures of Baqir al sadr on the subject|
 |[An Introduction to the Political Theory of Imam Khomeini](http://ijtihadnet.com/an-introduction-to-the-political-theory-of-imam-khomeini/) | Dr. Moh. Reza Dehshiri | 2015 | |
 |[Rights of women in islam](http://ijtihadnet.com/rights-of-women-in-islam-pdf/) | Murtaza Mutahri| 2012 |[outlines general rights of women with special emphasis to marriage. Some of the areas covered are marriage proposal, engagement, temporary marriage, modernity, dowry, inheritance, divorce, and polygymy]()|
+|[The Principles of Philosophy and the Method of Realism](https://www.iqraonline.net/the-principles-of-philosophy-and-the-method-of-realism-summary-of-article-1-what-is-philosophy/#easy-footnote-bottom-1-8361)| Muh Husain Tabatabai, Murtaza Mutahri | | |
 
 
 # Papers
