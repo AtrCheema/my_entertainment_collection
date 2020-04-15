@@ -93,6 +93,7 @@ seasons and films.
 |[Kingdom of Solomon](https://www.youtube.com/watch?v=SHLQmYhC4ao)| 2010| [About life of prophet Solomon a.s](https://github.com/AtrCheema/my_entertainment_collection/tree/master/movies/kingdom_of_solomon)|
 |[Long Lost Sisters](https://www.youtube.com/watch?v=KqmbHXGHGZc) | 1995 | |
 |[Angels Descend Together](https://www.aparat.com/v/DsYoq) | 2014 | |
+|[Omar Mukhtar](https://www.youtube.com/watch?v=3Vg0IA4WGzA)| 1981 |Omar mukhtar was a libyan resistance leader against Italy |
 
 # Books
 The books I wish to read and understand before dying.
